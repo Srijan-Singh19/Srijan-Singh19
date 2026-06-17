@@ -9,24 +9,24 @@ Building impactful solutions through code, cloud, and creativity ✨
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srijan-Singh19&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Srijan-Singh19&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srijan-singh-569789312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/SrijanSingh_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
   <a href="https://www.codechef.com/users/srijan_19">
-    <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
   <a href="mailto:neetusrijan1212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -58,10 +58,16 @@ Building impactful solutions through code, cloud, and creativity ✨
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
 ### Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
 </p>
 
 ---
@@ -107,11 +113,11 @@ Building impactful solutions through code, cloud, and creativity ✨
 
 ### 🏥 Hospital Queue System
 
-🔗 https://github.com/Srijan-Singh19/hospital_queue_system
+🔗 [View Repository](https://github.com/Srijan-Singh19/hospital_queue_system)
 
 ### 📍 Presensee
 
-🔗 https://github.com/Srijan-Singh19/presensee
+🔗 [View Repository](https://github.com/Srijan-Singh19/presensee)
 
 ---
 
@@ -129,6 +135,14 @@ Building impactful solutions through code, cloud, and creativity ✨
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijan-Singh19&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -138,6 +152,14 @@ Building impactful solutions through code, cloud, and creativity ✨
 - 🧩 200+ Problems Solved
 - ⭐ CodeChef 2★ Coder
 - 🏁 Regular Contest Participant
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijan-Singh19&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -157,7 +179,7 @@ Building impactful solutions through code, cloud, and creativity ✨
   </a>
 
   <a href="mailto:neetusrijan1212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
