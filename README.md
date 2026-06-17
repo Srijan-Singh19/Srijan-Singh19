@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srijan Singh</h1>
 
 <h3 align="center">
-B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | AWS Cloud Enthusiast
+B.Tech Information Technology Student | MERN Stack Developer | Cloud Developer | UI/UX Designer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srijan-Singh19&label=Profile%20Views&color=blueviolet&style=flat" />
+Building impactful solutions through code, cloud, and creativity ✨
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srijan-Singh19&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -22,21 +26,20 @@ B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | 
   </a>
 
   <a href="mailto:neetusrijan1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology (2024–2028) at **KIET Group of Institutions**
 - 💻 MERN Stack Developer passionate about building scalable applications
+- ☁️ Cloud Developer with hands-on AWS experience
 - 🎨 UI/UX Coordinator at **CPByte Club** and **Odyssey Literary Club**
-- ☁️ AWS Certified Cloud Enthusiast
-- 📊 Interested in Cloud Computing, Data Engineering, and Full-Stack Development
 - 🧩 Solved **200+ DSA problems** on LeetCode
-- ⭐ CodeChef **2★ Coder**
+- ⭐ **CodeChef 2★ Coder**
 - 🌱 Currently learning **Advanced React, Node.js, AWS, and System Design**
 
 ---
@@ -55,16 +58,10 @@ B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | 
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
 ### Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,mongodb,mysql" />
 </p>
 
 ---
@@ -78,21 +75,20 @@ B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | 
 - Graphic Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
 ## 🏅 Certifications
 
-- ☁️ AWS Certified Cloud Practitioner
-- 🤖 AWS AI Practitioner
-- 📚 AWS AI Essentials
-- 🏆 GSSoC Contributor
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 🤖 AWS AI Essentials
+- 🚀 AWS Certified Developer – Associate (DVA-C02)
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏥 Real-Time Healthcare Data Lake & Monitoring System
 
@@ -122,33 +118,33 @@ B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijan-Singh19&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srijan-Singh19&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-Singh19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-Singh19&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srijan-Singh19&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Srijan-Singh19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Competitive Programming
+## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SrijanSingh_?theme=dark&font=Baloo&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/SrijanSingh_?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 - 🧩 200+ Problems Solved
 - ⭐ CodeChef 2★ Coder
-- 🏁 Active Competitive Programmer
+- 🏁 Regular Contest Participant
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srijan-Singh19/Srijan-Singh19/output/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Srijan-Singh19/Srijan-Singh19/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -165,23 +161,6 @@ B.Tech Information Technology Student | MERN Stack Developer | UI/UX Designer | 
   </a>
 </p>
 
----
-
 <p align="center">
-✨ Building impactful solutions through code, cloud, and creativity ✨
+  ⭐️ From <a href="https://github.com/Srijan-Singh19">Srijan-Singh19</a>
 </p>
-
-<!--
-**Srijan-Singh19/Srijan-Singh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
