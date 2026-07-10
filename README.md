@@ -145,9 +145,9 @@ Building impactful solutions through code, cloud, and creativity ✨
 
 ## 🏆 Competitive Programming
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/SrijanSingh_?theme=dark&font=Baloo&ext=contest" />
-</p>
+</p> -->
 
 - 🧩 200+ Problems Solved
 - ⭐ CodeChef 2★ Coder
